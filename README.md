@@ -1,2 +1,2 @@
 # merge_practice
-practicing pd.df.merge
+A practice of pd.df.merge. See accompanying documentation in blog post - .
